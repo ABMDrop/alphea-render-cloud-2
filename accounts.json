@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Node 1 (USA)",
+    "email": "node1_c2@alphea.local",
+    "deviceId": "e1f2a3b4c5d6e7f8",
+    "proxy": "http://wtbhmkwu-1:wgkurrh625yw@p.webshare.io:80",
+    "location": "USA (Los Angeles)",
+    "accessToken": "",
+    "refreshToken": "",
+    "enabled": true
+  },
+  {
+    "name": "Node 2 (UK)",
+    "email": "node2_c2@alphea.local",
+    "deviceId": "f2a3b4c5d6e7f8a1",
+    "proxy": "http://wtbhmkwu-2:wgkurrh625yw@p.webshare.io:80",
+    "location": "UK (London)",
+    "accessToken": "",
+    "refreshToken": "",
+    "enabled": true
+  },
+  {
+    "name": "Node 3 (USA)",
+    "email": "node3_c2@alphea.local",
+    "deviceId": "a3b4c5d6e7f8a1b2",
+    "proxy": "http://wtbhmkwu-4:wgkurrh625yw@p.webshare.io:80",
+    "location": "USA (Los Angeles)",
+    "accessToken": "",
+    "refreshToken": "",
+    "enabled": true
+  },
+  {
+    "name": "Node 4 (Poland)",
+    "email": "node4_c2@alphea.local",
+    "deviceId": "b4c5d6e7f8a1b2c3",
+    "proxy": "http://wtbhmkwu-5:wgkurrh625yw@p.webshare.io:80",
+    "location": "Poland (Warsaw)",
+    "accessToken": "",
+    "refreshToken": "",
+    "enabled": true
+  },
+  {
+    "name": "Node 5 (Germany)",
+    "email": "node5_c2@alphea.local",
+    "deviceId": "c5d6e7f8a1b2c3d4",
+    "proxy": "http://wtbhmkwu-6:wgkurrh625yw@p.webshare.io:80",
+    "location": "Germany (Frankfurt)",
+    "accessToken": "",
+    "refreshToken": "",
+    "enabled": true
+  }
+]
